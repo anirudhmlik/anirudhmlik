@@ -1,68 +1,47 @@
-
 # 👋 Hi, I'm Anirudh Malik
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
-![MLflow](https://img.shields.io/badge/MLflow-0194EF?style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+**Founder & CEO @ OneBit AI | Building the Future of Efficient Intelligence**
 
-🚀 **Scientific Software Engineer | Data Scientist | MLOps Engineer | Aspiring Quant**  
-📍 Delhi / Noida | 🌐 [Portfolio](https://whoisaphysicist.streamlit.app/) | 💼 [LinkedIn](https://linkedin.com/in/whoisaphysicist)
+🌐 [OneBit AI](https://www.onebit-ai.in/) · 💼 [LinkedIn](https://linkedin.com/in/whoisaphysicist) · 💻 [GitHub](https://github.com/anirudhmlik)
 
 ---
 
-I'm passionate about bridging the gap between scientific research and real-world applications using AI & data.  
-With a background in **Particle Physics (MSc, University of Sheffield)**, I now build **AI tools**, design **MLOps pipelines**, and explore **quantitative finance**.
+I'm the Founder & CEO of **OneBit AI**, where we're exploring how to make AI more efficient, accessible, and practical through advances in model architecture, training, and inference.
+
+My background is in **particle physics and machine learning**, with an MSc from the University of Sheffield. That scientific foundation shapes how I build: start with fundamental questions, challenge assumptions, experiment rigorously, and measure what actually works.
+
+At OneBit AI, we're focused on **ultra-low-bit AI models and efficient inference** — developing models that push the boundaries of memory efficiency and computational performance without losing sight of capability.
+
+I believe the next chapter of AI will be shaped not just by larger models, but by better ways to build, train, and deploy intelligence.
+
+## 🚀 What We're Building at OneBit AI
+
+- **Ultra-low-bit AI:** Exploring language models trained from scratch with ternary weights.
+- **Efficient inference:** Making AI more practical on CPUs and memory-constrained hardware.
+- **Training innovation:** Investigating low-bit optimization, straight-through estimators, and model architectures.
+- **Performance-driven research:** Evaluating model quality, memory use, and inference speed through reproducible experiments.
+- **Accessible intelligence:** Working toward AI systems that require fewer computational resources to develop and deploy.
+
+## 🔬 Background
+
+- **Particle Physics:** MSc, University of Sheffield.
+- **Scientific Machine Learning:** Research in machine learning for electron identification in ATLAS/CERN-related studies.
+- **AI Engineering:** Experience with model development, data pipelines, scientific computing, and deployment.
+- **Entrepreneurship:** Building OneBit AI at the intersection of foundational AI research and real-world applications.
+
+## 🧭 My Focus
+
+Building a company at the intersection of **AI research, computational efficiency, and practical deployment**.
+
+I'm particularly interested in the fundamental questions: How small can AI models become while remaining useful? How can we train low-bit models from scratch? And how can we make capable intelligence accessible beyond expensive GPU infrastructure?
+
+## 🤝 Connect
+
+- 🌐 **Company:** [onebit-ai.in](https://www.onebit-ai.in/)
+- 💼 **LinkedIn:** [Anirudh Malik](https://linkedin.com/in/whoisaphysicist)
+- 💻 **GitHub:** [@anirudhmlik](https://github.com/anirudhmlik)
+- 📧 **Email:** anirudh@onebit-ai.in
 
 ---
 
-## 📈 Currently Exploring: Quantitative Finance
-
-- Financial time series modeling
-- Portfolio optimization using Python (cvxpy, PyPortfolioOpt)
-- Quant libraries: `QuantLib`, `yfinance`, `TA-Lib`, `backtrader`
-- Statistics for finance (risk metrics, VaR, Sharpe, etc.)
-- ML in trading: reinforcement learning, LSTM models
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** Python, SQL, C++, CUDA  
-- **ML/AI:** PyTorch, TensorFlow, Scikit-learn, Transformers  
-- **MLOps:** Docker, Airflow, MLflow, AWS (EC2, Lambda)  
-- **Finance Tools:** yfinance, QuantLib, backtrader, Pandas, TA-Lib  
-- **Databases:** MongoDB, PostgreSQL, Oracle  
-- **Visualization:** Matplotlib, Seaborn, Plotly  
-- **Research Tools:** ROOT, Geant4, DDSCAT, MadGraph
-
----
-
-## 🚀 Featured Projects
-
-- 🧠 **RAG-Based Alumni Chatbot**  
-  Built using Ollama, LangChain, and Django with ChromaDB integration.
-
-- 🏠 **AI-Powered Property Chatbot**  
-  GPT-powered query engine for natural language filtering of listings.
-
-- 🌱 **CO₂ Emission Estimator**  
-  Flask app + MLflow deployment on AWS EC2.
-
-- 🧪 **Electron ID @ CERN (MSc Dissertation)**  
-  ML model development using PICNN and optimal transport methods.
-
-- 📉 **Quant Strategy Backtests** *(Coming soon)*  
-  Applying LSTMs and rule-based strategies for equity time series.
-
----
-
-## 📫 Contact Me
-
-- Email: **anirudhforjobs@gmail.com**  
-- GitHub: [@anirudhmlik](https://github.com/anirudhmlik)  
-- LinkedIn: [linkedin.com/in/whoisaphysicist](https://linkedin.com/in/whoisaphysicist)
-
----
-
-_“Physics made me curious. Machine Learning made me creative. Quantitative finance made me precise.”_ 📊
+*Building efficient intelligence. Challenging computational limits. Turning research into reality.*
